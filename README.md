@@ -3,17 +3,17 @@
 
 Dive into the styles directory to witness the responsive SCSS magic. This is a project showcasing a responsive web design built with CSS3, HTML5 and SCSS.
 
-<h2> Technologies Used <br>
+<h2> Technologies Used </h2> <br>
 
-<ul> CSS3</ul>
+<ol> CSS3</ol>
 
-<ul> HTML5</ul>
+<ol> HTML5</ol>
 
-<ul> SCSS</ul>
+<ol> SCSS</ol>
 
-</h2>
 
-<h2> Feature </h2>
+
+<h2> Features </h2>
 
 A clean and simple project with a responsive layout that adjusts to different screen sizes such as tablets and mobiles. Used SCSS for styling and every section of the website was styled using scss separately in each section. @import, @include and @extend features were explored and studied. 
 
