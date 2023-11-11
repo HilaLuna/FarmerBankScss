@@ -1,0 +1,13 @@
+// farklı tarayıcılarda veya boyutlarda kolaylık sağlaması için
+
+@mixin tablet{
+    @media screen and (max-width:768px) {
+        @content;
+    }
+}
+
+@mixin mobile{
+    @media screen and (max-width:540px) {
+        @content;
+    }
+}
